@@ -1,7 +1,7 @@
 #define flapSwitch1  10  // Switch 1 (must be ON before Switch 2)
 #define flapSwitch2  11  // Switch 2 (must be ON before Switch 3)
 #define flapSwitch3  12 // Switch 3 
-#define flapSwitch4  13  // Switch 4
+#define flapSwitch4  A1  // Switch 4
 
 #define flapLevel8LED  2  // Default LED (ON when no switch is active)
 #define flapLevel9LED  3  // Activated by Switch 1
